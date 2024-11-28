@@ -3,7 +3,7 @@
 Este é o repositório do projeto.
 
 **IMPORTANTE:** É necessário ter o [Node.js](https://nodejs.org/) instalado em seu computador antes de executar os comandos de instalação e execução do projeto. Versão recomendada: v20.x.x.
-E também é importante que você baixe ou clone o arquivo do Back-end: url = https://github.com/Loy7g/InstaBytesBackEnd
+E também é importante que você baixe ou clone o arquivo do Back-end: https://github.com/Loy7g/InstaBytesBackEnd
 
 ## PASSO 1: Baixe o código do projeto:
 
